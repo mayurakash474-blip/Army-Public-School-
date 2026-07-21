@@ -1,0 +1,6 @@
+{
+  "name": "Army Public School Aliabad Hunza",
+  "description": "A premium, responsive, mobile-first website for Army Public School Aliabad Hunza, Gilgit-Baltistan, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
