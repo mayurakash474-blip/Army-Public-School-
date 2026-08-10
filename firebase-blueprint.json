@@ -18,6 +18,33 @@
         "message": "string",
         "submittedAt": "string"
       }
+    },
+    "pff_team_registrations": {
+      "schema": {
+        "id": "string",
+        "fullName": "string",
+        "gender": "string",
+        "teamId": "string",
+        "teamName": "string",
+        "registeredAt": "string",
+        "whatsappNumber": "string",
+        "username": "string",
+        "status": "string",
+        "position": "string"
+      }
+    },
+    "pff_fixtures": {
+      "schema": {
+        "id": "string",
+        "homeTeamId": "string",
+        "homeTeamName": "string",
+        "awayTeamId": "string",
+        "awayTeamName": "string",
+        "date": "string",
+        "time": "string",
+        "venue": "string",
+        "status": "string"
+      }
     }
   }
 }

@@ -7,5 +7,11 @@ service cloud.firestore {
     match /aps_submissions/{document} {
       allow read, write, delete: if true;
     }
+    match /pff_team_registrations/{document} {
+      allow read, write, delete: if true;
+    }
+    match /pff_fixtures/{document} {
+      allow read, write, delete: if true;
+    }
   }
 }

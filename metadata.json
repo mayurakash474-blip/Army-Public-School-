@@ -1,6 +1,6 @@
 {
-  "name": "Army Public School Aliabad Hunza",
-  "description": "A premium, responsive, mobile-first website for Army Public School Aliabad Hunza, Gilgit-Baltistan, Pakistan.",
+  "name": "PFF Football Federation Platform",
+  "description": "Official Pakistan Football Federation (PFF) platform featuring team registrations (Bimal FC, Royal FC), team dashboards, league standings, fixtures & results.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
